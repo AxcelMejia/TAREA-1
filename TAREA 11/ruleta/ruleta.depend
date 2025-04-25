@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743654189 source:c:\users\axcel\documents\programacion\tarea 11\ruleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
